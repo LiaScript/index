@@ -10,5 +10,8 @@ narrator: US English Female
 
 # Index
 
-A list (currently not) existing LiaScript courses, see 
-https://LiaScript.github.io for further information.
+Currently there is a german Prolog-test-course at:
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/tau-prolog_template/master/README.md
+
+For further information see: https://LiaScript.github.io
