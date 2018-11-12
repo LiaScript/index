@@ -19,5 +19,9 @@ and a starting C++ course at:
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liascript/ccourse/master/README.md
 
 
+and TensorFlowJS at:
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/TensorFlowJS_tutorial/master/README.md
+
 
 For further information see: https://LiaScript.github.io
