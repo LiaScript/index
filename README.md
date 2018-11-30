@@ -18,6 +18,9 @@ and a starting C++ course at:
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liascript/ccourse/master/README.md
 
+an interactive port of the free german C-Programming book using rextester:
+
+https://raw.githubusercontent.com/andre-dietrich/C-Programmierung/master/README.md
 
 and TensorFlowJS at:
 
