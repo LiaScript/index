@@ -28,3 +28,21 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-diet
 
 
 For further information see: https://LiaScript.github.io
+
+## Talks & Presentations
+
+eLearning 2019 (conference):
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/e-Learning-2019/master/README.md
+
+Basic LiaScript demo (german):
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/demo/master/README.md
+
+MeetupDemo 2018 (live demo):
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/MeetupDemo/master/README.md
+
+Netzwerktreffen 2018 (live demo):
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/Netzwerktreffen2018/master/README.md
