@@ -26,6 +26,9 @@ and TensorFlowJS at:
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/TensorFlowJS_tutorial/master/README.md
 
+short tutorial on control-theory (german):
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/Tutorial_Regelungstechnik/master/README.md
 
 For further information see: https://LiaScript.github.io
 
