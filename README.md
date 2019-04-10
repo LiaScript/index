@@ -12,7 +12,7 @@ narrator: US English Female
 
 Currently there is a german Prolog-test-course at:
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/tau-prolog_template/master/README.md#3
+https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/Arbeitsbuch-Prolog/master/README.md#3
 
 and a starting C++ course at:
 
