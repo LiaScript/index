@@ -10,9 +10,12 @@ narrator: US English Female
 
 # Index
 
+
+## Books
+
 Currently there is a german Prolog-test-course at:
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/Arbeitsbuch-Prolog/master/README.md#3
+https://liascript.github.io/course/?https://raw.githubusercontent.com/liaBooks/Arbeitsbuch-Prolog/master/README.md#3
 
 and a starting C++ course at:
 
@@ -20,7 +23,11 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/liascript/
 
 an interactive port of the free german C-Programming book using rextester:
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/C-Programmierung/master/README.md
+https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaBooks/C-Programmierung/master/README.md
+
+(english version) 
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaBooks/C-Programming/master/README.md
 
 and TensorFlowJS at:
 
