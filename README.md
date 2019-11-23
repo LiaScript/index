@@ -2,14 +2,21 @@
 
 author:   Andre Dietrich
 email:    andre.dietrich@ovgu.de
-version:  1.0.0
+version:  1.0.1
 language: en
 narrator: US English Female
+
+logo:     https://liascript.github.io/img/bg-masthead.jpg
+
+comment:  This is a collection on various different LiaScript books, talks, and
+          presentations. A collection of different templates can be found
+          [here](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/Index/master/README.md).
 
 -->
 
 # Index
 
+> This is a collection of different LiaScript documents...
 
 ## Books
 
@@ -25,7 +32,7 @@ an interactive port of the free german C-Programming book using rextester:
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaBooks/C-Programmierung/master/README.md
 
-(english version) 
+(english version)
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaBooks/C-Programming/master/README.md
 
@@ -56,3 +63,8 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-diet
 Netzwerktreffen 2018 (live demo):
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/Netzwerktreffen2018/master/README.md
+
+
+## Misc
+
+todo
