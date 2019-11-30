@@ -2,7 +2,7 @@
 
 author:   Andre Dietrich
 email:    andre.dietrich@ovgu.de
-version:  1.0.1
+version:  1.0.2
 language: en
 narrator: US English Female
 
@@ -23,6 +23,10 @@ comment:  This is a collection on various different LiaScript books, talks, and
 Currently there is a german Prolog-test-course at:
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liaBooks/Arbeitsbuch-Prolog/master/README.md#3
+
+a port of the Wikibook on Lua-Programming to LiaScript:
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaBooks/Lua-Programming/master/README.md
 
 and a starting C++ course at:
 
@@ -48,6 +52,10 @@ For further information see: https://LiaScript.github.io
 
 ## Talks & Presentations
 
+elm-europe 2019:
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/elmeurope-2019/master/README.md
+
 eLearning 2019 (conference):
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/e-Learning-2019/master/README.md
@@ -67,4 +75,10 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/
 
 ## Misc
 
-todo
+Sister fox and the gray wolf, a russian folk tale:
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/liaBooks/SisterFoxAndTheGrayWolf/master/README.md
+
+and here the German version:
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/liaBooks/SisterFoxAndTheGrayWolf/master/GERMAN.md
